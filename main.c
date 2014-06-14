@@ -2,6 +2,7 @@
 
 void main()
 {
+/*Tests*/
 	printf("Hello world");
 	printf("Sorry for flood");
 	if (something wrong)
