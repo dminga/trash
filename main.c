@@ -4,6 +4,7 @@ void main()
 {
 /*Tests*/
 /*Some Tests*/
+/*Not all tests done!*/
 	printf("Hello world");
 	printf("Sorry for flood");
 	if (something wrong)
