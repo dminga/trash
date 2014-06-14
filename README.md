@@ -1,0 +1,4 @@
+trash
+=====
+
+every trashy thing
